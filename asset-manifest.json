@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.42653805.css",
-    "main.js": "/static/js/main.71dbe3e5.js",
-    "index.html": "/index.html",
-    "main.42653805.css.map": "/static/css/main.42653805.css.map",
-    "main.71dbe3e5.js.map": "/static/js/main.71dbe3e5.js.map"
+    "main.css": "/rabbit-game/static/css/main.42653805.css",
+    "main.js": "/rabbit-game/static/js/main.71dbe3e5.js",
+    "index.html": "/rabbit-game/index.html",
+    "main.42653805.css.map": "/rabbit-game/static/css/main.42653805.css.map",
+    "main.71dbe3e5.js.map": "/rabbit-game/static/js/main.71dbe3e5.js.map"
   },
   "entrypoints": [
     "static/css/main.42653805.css",
